@@ -2,4 +2,8 @@ protobuf~=3.19.0
 openai
 streamlit
 python-dotenv
+PyMuPDF
+python-docx
+keybert
+flair
 -e .
